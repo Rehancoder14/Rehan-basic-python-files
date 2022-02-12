@@ -1,0 +1,10 @@
+n1 = int(input("Enter your first number\n"))
+n2 = int(input("Enter your second number\n"))
+n3 = int(input("Enter your third number\n"))
+n4 = int(input("Enter your fourth number\n"))
+n5 = int(input("Enter your fifth number\n"))
+n6 = int(input("Enter your sixth number\n"))
+n7 = int(input("Enter your seventh number\n"))
+n8 = int(input("Enter your eight number\n"))
+Mynum = {n1,n2,n3,n4,n5,n5,n6,n7,n8}
+print(Mynum)
